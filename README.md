@@ -1,0 +1,2 @@
+# MegaBlog
+Appwrite blog application
